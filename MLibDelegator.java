@@ -1,4 +1,4 @@
-package kr.co.nowcom.mobile.afreeca.marshmallow;
+package com.test.marshmallow;
 import android.app.Activity;
 import android.content.Context;
 
